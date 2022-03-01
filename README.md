@@ -1,8 +1,8 @@
+# whois
+
 [![MIT License](https://img.shields.io/npm/l/@bedirhansamsa/whois)](https://github.com/BEDIRHANSAMSA/whois/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/npm/dw/@bedirhansamsa/whois)](https://www.npmjs.com/package/@bedirhansamsa/whois)
 [![Version](https://img.shields.io/npm/v/@bedirhansamsa/whois)](https://www.npmjs.com/package/@bedirhansamsa/whois)
-
-# whois
 
 Whois lib for domain availability and who is registered data.
 
