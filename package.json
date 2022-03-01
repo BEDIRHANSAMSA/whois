@@ -1,6 +1,6 @@
 {
   "name": "@bedirhansamsa/whois",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,10 @@
     "whois",
     "javascript whois"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BEDIRHANSAMSA/whois.giot"
+  },
   "bugs": {
     "mail": "me@bedirhan.dev"
   },
