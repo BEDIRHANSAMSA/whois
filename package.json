@@ -11,9 +11,6 @@
   "files": [
     "src"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Bedirhan SAMSA <me@bedirhan.dev>",
   "license": "MIT",
   "keywords": [
