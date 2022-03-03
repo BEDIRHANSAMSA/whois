@@ -11,6 +11,9 @@
   "files": [
     "src"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Bedirhan SAMSA <me@bedirhan.dev>",
   "license": "MIT",
   "keywords": [
@@ -18,8 +21,7 @@
     "javascript whois"
   ],
   "repository": {
-    "type": "git",
-    "url": "https://github.com/BEDIRHANSAMSA/whois.git"
+    "url": "git://github.com/BEDIRHANSAMSA/whois.git"
   },
   "bugs": {
     "url": "https://github.com/BEDIRHANSAMSA/whois"

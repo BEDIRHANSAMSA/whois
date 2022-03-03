@@ -14,6 +14,12 @@ Install with npm
   npm i @bedirhansamsa/whois
 ```
 
+Install with yarn
+
+```bash
+  yarn add @bedirhansamsa/whois
+```
+
 ## Usage/Examples
 
 ### Code:
