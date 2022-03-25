@@ -1,9 +1,10 @@
 {
   "name": "@bedirhansamsa/whois",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Whois lib for domain availability and who is registered data.",
-  "main": "src/index.js",
+  "main": "index.js",
   "types": "index.d.ts",
+  "typings": "index.d.ts",
   "scripts": {
     "build": "npm run lint",
     "lint": "eslint ./src",
@@ -11,6 +12,7 @@
   },
   "files": [
     "src",
+    "index.js",
     "index.d.ts"
   ],
   "author": "Bedirhan SAMSA <me@bedirhan.dev>",
