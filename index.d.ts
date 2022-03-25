@@ -11,4 +11,6 @@ declare module '@bedirhansamsa/whois' {
     available: boolean;
     data: string;
   };
+
+  export default whois;
 }

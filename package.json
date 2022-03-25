@@ -1,6 +1,6 @@
 {
   "name": "@bedirhansamsa/whois",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "description": "Whois lib for domain availability and who is registered data.",
   "main": "index.js",
   "types": "index.d.ts",
