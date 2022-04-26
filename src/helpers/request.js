@@ -15,4 +15,9 @@ module.exports = (host, domain) =>
     socket.on('timeout', () => socket.destroy(new Error('Timeout')));
     socket.on('error', reject);
     socket.on('end', () => resolve(data));
+  }).catch((err) => {
+    if (err.message === 'Timeout') {
+      return Promise.reject(new Error('Timeout'));
+    }
+    return Promise.reject(err);
   });
