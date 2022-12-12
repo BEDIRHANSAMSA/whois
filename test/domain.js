@@ -1,5 +1,5 @@
-const whois = require('../src/index');
 const { expect } = require('chai');
+const whois = require('../index');
 
 describe('whois function', () => {
   it('should return available false', async () => {
